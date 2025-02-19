@@ -1,6 +1,6 @@
 # Admin Page
 
-![Login](assets/admin-dashboard.png)
+![Login](assets/clerk-authenticate.png)
 ![Dashboard](assets/admin-dashboard.png)
 ![ProductManage](assets/admin-product-manage.png)
 
