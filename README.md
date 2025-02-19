@@ -1,15 +1,10 @@
-# HomePage
+# Admin Page
 
-![Admin](vite-frontend/src/Assets/homepage.png)
-![Dashboard]()
-# SearchPage
+![Login](ecommerce-admin/public/admin-dashboard.png)
+![Dashboard](ecommerce-admin/public/admin-dashboard.png)
+![ProductManage](ecommerce-admin/public/admin-product-manage.png)
 
-![Navbar and Search](vite-frontend/src/Assets/searchpage.png)
+# Store Page
 
-# CompanyPage
-
-![CompanyPage](vite-frontend/src/Assets/companypage.png)
-
-# LoginPage
-
-![LoginPage](vite-frontend/src/Assets/loginpage.png)
+![ProductsPage](ecommerce-store/public/store-page.png)
+![CheckoutPage](ecommerce-store/public/store-checkout.png)
